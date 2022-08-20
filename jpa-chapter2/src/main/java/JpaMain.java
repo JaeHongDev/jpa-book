@@ -1,3 +1,5 @@
+import domain.Member;
+
 import javax.persistence.EntityManager;
 import javax.persistence.EntityManagerFactory;
 import javax.persistence.EntityTransaction;
@@ -27,9 +29,9 @@ public class JpaMain {
 
         String id = "id2";
         var member = Member.builder()
-                .id("id2")
-                .age(12)
-                .username("username").build();
+                           .id("id2")
+                           .age(12)
+                           .username("username").build();
         em.persist(member);
 
         member.setAge(20);
