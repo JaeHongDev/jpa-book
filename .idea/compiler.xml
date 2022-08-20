@@ -8,6 +8,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="jpa-chapter2" />
+        <module name="jpa-chapter4" />
         <module name="jpa-chapter3" />
       </profile>
     </annotationProcessing>
