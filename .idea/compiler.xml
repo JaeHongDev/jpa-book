@@ -12,6 +12,7 @@
         <module name="jpa-chapter4" />
         <module name="jpa-chapter3" />
         <module name="practical-practice-6" />
+        <module name="jpa-chapter8" />
         <module name="jpa-chapter7" />
         <module name="jpa-chapter2" />
       </profile>

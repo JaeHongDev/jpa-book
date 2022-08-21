@@ -4,27 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c586a808-8565-4965-a037-778f9e428a07" name="Changes" comment="chapter6">
-      <change afterPath="$PROJECT_DIR$/jpa-chapter7/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jpa-chapter7/src/main/java/JpaMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jpa-chapter7/src/main/java/domain/Album.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jpa-chapter7/src/main/java/domain/BaseEntity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jpa-chapter7/src/main/java/domain/Board.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jpa-chapter7/src/main/java/domain/BoardDetail.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jpa-chapter7/src/main/java/domain/Child2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jpa-chapter7/src/main/java/domain/Child2Id.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jpa-chapter7/src/main/java/domain/EmbeddedParent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jpa-chapter7/src/main/java/domain/EmbeddedParentId.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jpa-chapter7/src/main/java/domain/GrandChild.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jpa-chapter7/src/main/java/domain/GrandChildId.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jpa-chapter7/src/main/java/domain/Item.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jpa-chapter7/src/main/java/domain/Member.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jpa-chapter7/src/main/java/domain/Movie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jpa-chapter7/src/main/java/domain/Parent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jpa-chapter7/src/main/java/domain/Parent2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jpa-chapter7/src/main/java/domain/ParentId.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jpa-chapter7/src/main/java/domain/Seller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jpa-chapter7/src/main/resources/META-INF/persistence.xml" afterDir="false" />
+    <list default="true" id="c586a808-8565-4965-a037-778f9e428a07" name="Changes" comment="chapter7">
+      <change afterPath="$PROJECT_DIR$/jpa-chapter8/jpa-chapter8.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jpa-chapter8/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jpa-chapter8/src/main/java/JpaMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jpa-chapter8/src/main/java/domain/Child.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jpa-chapter8/src/main/java/domain/Member.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jpa-chapter8/src/main/java/domain/MemberProxy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jpa-chapter8/src/main/java/domain/Parent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jpa-chapter8/src/main/java/domain/Team.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jpa-chapter8/src/main/resources/META-INF/persistence.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
@@ -182,7 +171,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1660966178523</updated>
-      <workItem from="1660966182572" duration="18991000" />
+      <workItem from="1660966182572" duration="21127000" />
     </task>
     <task id="LOCAL-00001" summary="chapter2">
       <created>1660989613664</created>
@@ -226,7 +215,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661067544733</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="chapter7">
+      <created>1661073315495</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1661073315495</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -249,6 +245,7 @@
     <MESSAGE value="chapter4" />
     <MESSAGE value="chapter5" />
     <MESSAGE value="chapter6" />
-    <option name="LAST_COMMIT_MESSAGE" value="chapter6" />
+    <MESSAGE value="chapter7" />
+    <option name="LAST_COMMIT_MESSAGE" value="chapter7" />
   </component>
 </project>
