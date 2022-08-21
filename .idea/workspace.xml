@@ -4,21 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c586a808-8565-4965-a037-778f9e428a07" name="Changes" comment="chapter3">
-      <change afterPath="$PROJECT_DIR$/jpa-chapter4/jpa-chapter4.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jpa-chapter4/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jpa-chapter4/src/main/java/JpaMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jpa-chapter4/src/main/java/domain/Board.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jpa-chapter4/src/main/java/domain/RoleType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jpa-chapter4/src/main/java/domain/shop/Item.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jpa-chapter4/src/main/java/domain/shop/Member.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jpa-chapter4/src/main/java/domain/shop/OrderItem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jpa-chapter4/src/main/java/domain/shop/Orders.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jpa-chapter4/src/main/resources/META-INF/persistence.xml" afterDir="false" />
+    <list default="true" id="c586a808-8565-4965-a037-778f9e428a07" name="Changes" comment="chapter4">
+      <change afterPath="$PROJECT_DIR$/jpa-chapter5/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jpa-chapter5/src/main/java/JpaMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jpa-chapter5/src/main/java/domain/Member.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jpa-chapter5/src/main/java/domain/Team.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jpa-chapter5/src/main/resources/META-INF/persistence.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jpa-book.iml" beforeDir="false" afterPath="$PROJECT_DIR$/jpa-book.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jpa-chapter4/jpa-chapter4.iml" beforeDir="false" afterPath="$PROJECT_DIR$/jpa-chapter4/jpa-chapter4.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,9 +69,9 @@
     </option>
     <option name="myId2Visible">
       <map>
-        <entry key="com.haulmont.jpb.jpaInspector" value="true" />
-        <entry key="com.haulmont.jpb.jpaPalette" value="true" />
-        <entry key="com.haulmont.jpb.jpaStructure" value="true" />
+        <entry key="com.haulmont.jpb.jpaInspector" value="false" />
+        <entry key="com.haulmont.jpb.jpaPalette" value="false" />
+        <entry key="com.haulmont.jpb.jpaStructure" value="false" />
       </map>
     </option>
   </component>
@@ -112,12 +107,13 @@
       <recent name="$PROJECT_DIR$/jpa-chapter3/src/main/resources" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/jpa-chapter5/src/main/resources/META-INF" />
       <recent name="$PROJECT_DIR$/jpa-chapter4/src/main/resources/META-INF" />
       <recent name="$PROJECT_DIR$/jpa-chapter4/src/main/resources/" />
       <recent name="$PROJECT_DIR$/jpa-chapter4/src/main/resources" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.JpaMain (2)">
+  <component name="RunManager" selected="Application.JpaMain (3)">
     <configuration name="JpaMain (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="JpaMain" />
       <module name="jpa-chapter3" />
@@ -128,6 +124,13 @@
     <configuration name="JpaMain (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="JpaMain" />
       <module name="jpa-chapter4" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JpaMain (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JpaMain" />
+      <module name="jpa-chapter5" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -154,6 +157,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.JpaMain (3)" />
         <item itemvalue="Application.JpaMain (2)" />
         <item itemvalue="Application.JpaMain" />
         <item itemvalue="Application.JpaMain (1)" />
@@ -169,7 +173,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1660966178523</updated>
-      <workItem from="1660966182572" duration="9676000" />
+      <workItem from="1660966182572" duration="12575000" />
     </task>
     <task id="LOCAL-00001" summary="chapter2">
       <created>1660989613664</created>
@@ -192,7 +196,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661000155307</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="chapter4">
+      <created>1661003390872</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1661003390872</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -212,6 +223,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="chapter2" />
     <MESSAGE value="chapter3" />
-    <option name="LAST_COMMIT_MESSAGE" value="chapter3" />
+    <MESSAGE value="chapter4" />
+    <option name="LAST_COMMIT_MESSAGE" value="chapter4" />
   </component>
 </project>
