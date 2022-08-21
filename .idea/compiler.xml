@@ -7,10 +7,12 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="jpa-chapter6" />
         <module name="jpa-chapter5" />
         <module name="jpa-chapter4" />
         <module name="jpa-chapter3" />
         <module name="jpa-chapter2" />
+        <module name="practical-practice-6" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
